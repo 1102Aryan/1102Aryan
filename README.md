@@ -14,7 +14,7 @@
 
 ## 🚀 Featured Projects
 
-### EngagePro - AI Meeting Assistant]
+### EngagePro - AI Meeting Assistant
 **Hackathon | Infosys x Google Cloud**  
 **Tech:** Python, PostgreSQL, Google Cloud, Gemini LLM  
 Built a full-stack AI agent in 3 days that personalizes client engagement using semantic search and meeting scheduling.
