@@ -9,10 +9,15 @@
 -  **SEO Management Consultant** - Managing WordPress sites and digital marketing strategies
 
 ## 🔭 Currently Working On
-- Video to Album Cover: Transform your YouTube and YouTube Music experience by replacing distracting music videos with album artwork.
-- Playlist Curator: Transform your chaotic music library into genre-based playlists in minutes.
+- Jam Pal: A partner to support your jam sessions on guitar
+- Playlist Curator: Transform your chaotic music library into genre-based playlists in minutes
 
 ## 🚀 Featured Projects
+
+### Guitar Music Transcription - Ear Training Tool
+**Dissertation | Final Year**
+**Tech:** Python, PyTorch, [BasicPitch](https://github.com/spotify/basic-pitch), PySide6
+Transcribes audio into guitar tablature for guitar practice and ear training workflow.
 
 ### EngagePro - AI Meeting Assistant
 **Hackathon | Infosys x Google Cloud**  
