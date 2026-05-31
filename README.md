@@ -15,8 +15,8 @@
 ## 🚀 Featured Projects
 
 ### Guitar Music Transcription - Ear Training Tool
-**Dissertation | Final Year**
-**Tech:** Python, PyTorch, [BasicPitch](https://github.com/spotify/basic-pitch), PySide6
+**Dissertation | Final Year Project**  
+**Tech:** Python, PyTorch, [BasicPitch](https://github.com/spotify/basic-pitch), PySide6  
 Transcribes audio into guitar tablature for guitar practice and ear training workflow.
 
 ### EngagePro - AI Meeting Assistant
