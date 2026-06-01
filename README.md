@@ -1,6 +1,5 @@
 ## Hi, Im Aryan 👋
 - Final year Computer Science student at University of Nottingham
-- **[View My Portfolio](https://1102aryan.github.io/portfolio/)**
 - Currently exploring: AI agents, mobile development, and DevOps automation
 
 ## 💼 Experience & Achievement
