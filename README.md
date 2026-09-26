@@ -11,6 +11,7 @@
   Experience & Achievement
 </h2>
 
+-  **Software Engineer Intern @ Honeywell Aerospace** - Contributing to a React TypeScript internal web application
 -  **Software Engineer Intern @ Infosys** - Enhanced SAP Commerce platform in Agile environment
 -  **Subject Ambassador @ University of Nottingham** - Representing CS department at open days  
 -  **SEO Management Consultant** - Managing WordPress sites and digital marketing strategies
